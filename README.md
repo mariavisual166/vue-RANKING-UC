@@ -1,4 +1,4 @@
-# teg-frontend
+# frontend
 
 > Frontend para el proyecto del Rankings QS de la Universidad de Carabobo
 
